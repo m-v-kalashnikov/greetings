@@ -1,3 +1,3 @@
-module github.com/m-v-kalashnikov/go-test/greetings
+module github.com/greetings
 
 go 1.16
