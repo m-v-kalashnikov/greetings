@@ -1,3 +1,3 @@
-module github.com/greetings/m-v-kalashnikov/greetings
+module github.com/m-v-kalashnikov/greetings
 
 go 1.16
